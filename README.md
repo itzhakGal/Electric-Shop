@@ -14,11 +14,11 @@ ElectricShop is a simple e-commerce web app for buying kitchen appliances, devel
 
 ### Product Catalog
 
-<img src="Images/Screenshot 2024-12-30 151835.png" alt="Product Catalog" width="500px" />
+<img src="Images/Screenshot 2024-12-30 151835.png" alt="Product Catalog" width="600px" />
 
 ### Cart
 
-<img src="Images/Screenshot 2024-12-30 151906.png" alt="Cart Page" width="500px" />
+<img src="Images/Screenshot 2024-12-30 151906.png" alt="Cart Page" width="600px" />
 
 
 ## How to Use
